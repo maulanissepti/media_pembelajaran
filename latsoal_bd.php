@@ -35,7 +35,7 @@
   <tr>
     <td><a href="soallingkaran.php">LINGKARAN</a></td>
   </tr></table>
-<p><a href="home.php"><img src="kembali-png-hi.png" width="73" height="31" alt="back" /></a></p>
+<p><a href="index.php"><img src="kembali-png-hi.png" width="73" height="31" alt="back" /></a></p>
 </table></center>
 </body>
 </html>
